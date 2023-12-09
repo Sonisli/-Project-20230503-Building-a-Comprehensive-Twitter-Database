@@ -5,7 +5,7 @@
 
 - Author: Yunhao Li\*, Siheng Huang, Yanhan Chen, Yicong Li
 
-- Description: This project is an group project, which builds a Comprehensive Twitter Database using MySQL and ElasticSearch for Searching Application. The original tweet data was collated and processed, followed by a reconstruction of the retweet data structure. Three relational data stores were established using MySQL to store basic tweet information, user information, and tweet popularity. A non-relational data store was built with ElasticSearch to store the text of all tweets. A cache was set up to store the most popular user data, saving searching time by avoiding the need to pull data from the database repeatedly. A search application was built upon these three components, offering functions such as searching for tweets, users, and the most popular tweets and users.
+- Description: This project is a group project, which builds a Comprehensive Twitter Database using MySQL and ElasticSearch for Searching Application. The original tweet data was collated and processed, followed by a reconstruction of the retweet data structure. Three relational data stores were established using MySQL to store basic tweet information, user information, and tweet popularity. A non-relational data store was built with ElasticSearch to store the text of all tweets. A cache was set up to store the most popular user data, saving searching time by avoiding the need to pull data from the database repeatedly. A search application was built upon these three components, offering functions such as searching for tweets, users, and the most popular tweets and users.
 	- Forked from SIHENG-H/RU_DataBase_Management_694_2023_team15: https://github.com/SIHENG-H/RU_DataBase_Management_694_2023_team15
 
 
